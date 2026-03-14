@@ -54,7 +54,7 @@ Tabulation:2
 RESULT:
 ![alt text](35.png)
 ![alt text](36.png)
-
+Thus the staircase wiring is connected and tested.
 
 ![alt text](36.png)
 
