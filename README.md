@@ -51,6 +51,9 @@ Cross connection: CIRCUIT DIAGRAM:
 Tabulation:2
 ![alt text](34.jpeg)
 
-RESULT:![alt text](35.png)
+RESULT:
+![alt text](35.png)
+
 ![alt text](36.png)
+
 Thus the staircase wiring is connected and tested.
