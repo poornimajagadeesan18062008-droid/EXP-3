@@ -52,6 +52,7 @@ Tabulation:2
 ![alt text](34.jpeg)
 
 RESULT:
+![alt text](36.png)
 ![alt text](35.png)
 
 ![alt text](36.png)
